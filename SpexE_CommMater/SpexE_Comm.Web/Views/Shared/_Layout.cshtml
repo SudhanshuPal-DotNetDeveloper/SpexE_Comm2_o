@@ -1,0 +1,60 @@
+﻿@inject Microsoft.AspNetCore.Http.IHttpContextAccessor HttpContextAccessor
+@using SpexE_Comm.Data.Data
+@using SpexE_Comm.Model
+@using System.Text
+
+@{
+    if (String.IsNullOrEmpty(Convert.ToString(ViewBag.Title)))
+    {
+        ViewBag.Title = "SpexE_Comm Everything Shop";
+    }
+    Layout = null;
+    var userName = HttpContextAccessor.HttpContext.Request.Cookies["SpexE_CommUserName"];
+    var userEmail = HttpContextAccessor.HttpContext.Request.Cookies["SpexE_Comm"];
+    var _spexE_Comm = new SpexE_CommContext();
+    SpexE_Comm.Model.Models.Base.HeaderModel membershipModel = new SpexE_Comm.Model.Models.Base.HeaderModel();
+    membershipModel.UserName = userName;
+    membershipModel.SearchTerm = !string.IsNullOrEmpty(ViewBag.SearchTerm) ? ViewBag.SearchTerm : string.Empty;
+    SpexE_Comm.Model.MembershipModel membershipModel2 = new SpexE_Comm.Model.MembershipModel();
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - SpexE_Comm.Web</title>
+
+    <!--CSS Links-->
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/boxicons@2.0.2/css/boxicons.min.css">
+    <link rel="stylesheet" href="~/font-awesome/css/all.min.css" />
+    <link rel="stylesheet" href="~/lib/animate.css/animate.min.css" />
+    <link rel="stylesheet" href="~/lib/OwlCarousel2/assets/owl.carousel.min.css" />
+
+    <!--JavaScript Links-->
+    <script src="~/js/Common/Common.js"></script>
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/js/Header/Header.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.min.js"></script>
+    <script src="~/lib/OwlCarousel2/owl.carousel.min.js"></script>
+</head>
+<body>
+    @await Html.PartialAsync("_Spinner")
+    <header>
+        @await Html.PartialAsync("_HeaderPartial", membershipModel)
+    </header>
+
+    <div>
+        <main role="main" class="pb-4 mb-5">
+            @RenderBody()
+        </main>
+    </div>
+
+    <footer class="footer-20192">
+        @await Html.PartialAsync("_FooterPartial")
+    </footer>
+    @RenderSection("Scripts", required: false)
+</body>
+</html>

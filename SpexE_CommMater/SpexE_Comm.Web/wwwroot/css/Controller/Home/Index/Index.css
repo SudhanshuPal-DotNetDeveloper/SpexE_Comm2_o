@@ -1,0 +1,37 @@
+﻿@media (min-width:1170px) and (max-width:1500px) {
+    .card-position {
+        top: -18em;
+    }
+}
+
+@media (min-width:930px) and (max-width:1169px) {
+    .card-position {
+        top: -14em;
+    }
+}
+
+@media (min-width:580px) and (max-width:929px) {
+    .card-position {
+        top: -9em;
+    }
+}
+
+@media (min-width:420px) and (max-width:579px) {
+    .card-position {
+        top: -7em;
+    }
+}
+
+@media (max-width:419px) {
+    .card-position {
+        top: -5em;
+    }
+}
+
+.card {
+    transition: transform 0.2s ease;
+}
+
+    .card:hover {
+        transform: scale(1.1);
+    }

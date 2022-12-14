@@ -1,0 +1,34 @@
+E:\.net core project\SpexE_Comm\SpexE_Comm.Factory\bin\Debug\netcoreapp3.1\SpexE_Comm.Factory.deps.json
+E:\.net core project\SpexE_Comm\SpexE_Comm.Factory\bin\Debug\netcoreapp3.1\SpexE_Comm.Factory.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Factory\bin\Debug\netcoreapp3.1\SpexE_Comm.Factory.pdb
+E:\.net core project\SpexE_Comm\SpexE_Comm.Factory\bin\Debug\netcoreapp3.1\SpexE_Comm.Data.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Factory\bin\Debug\netcoreapp3.1\SpexE_Comm.Model.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Factory\bin\Debug\netcoreapp3.1\SpexE_Comm.Service.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Factory\bin\Debug\netcoreapp3.1\SpexE_Comm.Data.pdb
+E:\.net core project\SpexE_Comm\SpexE_Comm.Factory\bin\Debug\netcoreapp3.1\SpexE_Comm.Model.pdb
+E:\.net core project\SpexE_Comm\SpexE_Comm.Factory\bin\Debug\netcoreapp3.1\SpexE_Comm.Service.pdb
+E:\.net core project\SpexE_Comm\SpexE_Comm.Factory\obj\Debug\netcoreapp3.1\SpexE_Comm.Factory.csproj.AssemblyReference.cache
+E:\.net core project\SpexE_Comm\SpexE_Comm.Factory\obj\Debug\netcoreapp3.1\SpexE_Comm.Factory.GeneratedMSBuildEditorConfig.editorconfig
+E:\.net core project\SpexE_Comm\SpexE_Comm.Factory\obj\Debug\netcoreapp3.1\SpexE_Comm.Factory.AssemblyInfoInputs.cache
+E:\.net core project\SpexE_Comm\SpexE_Comm.Factory\obj\Debug\netcoreapp3.1\SpexE_Comm.Factory.AssemblyInfo.cs
+E:\.net core project\SpexE_Comm\SpexE_Comm.Factory\obj\Debug\netcoreapp3.1\SpexE_Comm.Factory.csproj.CoreCompileInputs.cache
+E:\.net core project\SpexE_Comm\SpexE_Comm.Factory\obj\Debug\netcoreapp3.1\SpexE_Comm.Factory.csproj.CopyComplete
+E:\.net core project\SpexE_Comm\SpexE_Comm.Factory\obj\Debug\netcoreapp3.1\SpexE_Comm.Factory.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Factory\obj\Debug\netcoreapp3.1\SpexE_Comm.Factory.pdb
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Factory\bin\Debug\netcoreapp3.1\SpexE_Comm.Factory.deps.json
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Factory\bin\Debug\netcoreapp3.1\SpexE_Comm.Factory.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Factory\bin\Debug\netcoreapp3.1\SpexE_Comm.Factory.pdb
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Factory\bin\Debug\netcoreapp3.1\SpexE_Comm.Data.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Factory\bin\Debug\netcoreapp3.1\SpexE_Comm.Model.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Factory\bin\Debug\netcoreapp3.1\SpexE_Comm.Service.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Factory\bin\Debug\netcoreapp3.1\SpexE_Comm.Data.pdb
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Factory\bin\Debug\netcoreapp3.1\SpexE_Comm.Model.pdb
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Factory\bin\Debug\netcoreapp3.1\SpexE_Comm.Service.pdb
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Factory\obj\Debug\netcoreapp3.1\SpexE_Comm.Factory.csproj.AssemblyReference.cache
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Factory\obj\Debug\netcoreapp3.1\SpexE_Comm.Factory.GeneratedMSBuildEditorConfig.editorconfig
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Factory\obj\Debug\netcoreapp3.1\SpexE_Comm.Factory.AssemblyInfoInputs.cache
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Factory\obj\Debug\netcoreapp3.1\SpexE_Comm.Factory.AssemblyInfo.cs
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Factory\obj\Debug\netcoreapp3.1\SpexE_Comm.Factory.csproj.CoreCompileInputs.cache
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Factory\obj\Debug\netcoreapp3.1\SpexE_Comm.Factory.csproj.CopyComplete
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Factory\obj\Debug\netcoreapp3.1\SpexE_Comm.Factory.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Factory\obj\Debug\netcoreapp3.1\SpexE_Comm.Factory.pdb

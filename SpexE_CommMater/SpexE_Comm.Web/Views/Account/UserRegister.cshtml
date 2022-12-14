@@ -1,0 +1,302 @@
+﻿@model SpexE_Comm.Model.MembershipModel
+@{
+    ViewData["Title"] = "User Registeration";
+}
+<link rel="stylesheet" href="~/css/Controller/Account/UserRegistration and UserLogin/RegisterationAndLogin.css" />
+
+<div class="container">
+    <div class="row py-5 mt-4 align-items-center">
+        <!-- For Registion -->
+        <div class="col-md-5 pr-lg-5 mb-5 mb-md-0">
+            <img src="https://bootstrapious.com/i/snippets/sn-registeration/illustration.svg" alt="" class="img-fluid mb-3 d-none d-md-block">
+            <h1>Create an Account</h1>
+            <p class="font-italic text-muted mb-0">Get access to your Orders, Wishlist and Recommendations</p>
+            <p class="font-italic text-muted">
+                Snippet By <a asp-controller="Home" asp-action="Index" class="text-muted">
+                    <u>SpexE_Comm</u>
+                </a>
+            </p>
+        </div>
+
+        <!-- Registeration Form -->
+        <div class="col-md-7 col-lg-6 ml-auto">
+            <form asp-action="UserRegister" asp-controller="Account" type="POST" role="form">
+                <div class="row">
+
+                    <!-- First Name -->
+                    <div class=" col-lg-6 mb-4">
+                        <div class="input-group">
+                            <div class="input-group-prepend">
+                                <span class="input-group-text bg-white px-4 border-md border-right-0">
+                                    <i class="fa fa-user text-muted"></i>
+                                </span>
+                            </div>
+                            <input type="text" asp-for="FirstName" name="FirstName" placeholder="First Name" class="form-control bg-white border-left-0 border-md">
+                        </div>
+                        <div>
+                            <span asp-validation-for="FirstName" class="text-danger"></span>
+                        </div>
+                    </div>
+
+                    <!-- Last Name -->
+                    <div class=" col-lg-6 mb-4">
+                        <div class="input-group">
+                            <div class="input-group-prepend">
+                                <span class="input-group-text bg-white px-4 border-md border-right-0">
+                                    <i class="fa fa-user text-muted"></i>
+                                </span>
+                            </div>
+                            <input type="text" asp-for="LastName" name="LastName" placeholder="Last Name" class="form-control bg-white border-left-0 border-md">
+
+                        </div>
+                        <div>
+                            <span asp-validation-for="LastName" class="text-danger"></span>
+                        </div>
+                    </div>
+
+                    <!-- Email Address -->
+                    <div class="col-lg-12 mb-4">
+                        <div class="input-group ">
+                            <div class="input-group-prepend">
+                                <span class="input-group-text bg-white px-4 border-md border-right-0">
+                                    <i class="fa fa-envelope text-muted"></i>
+                                </span>
+                            </div>
+                            <input type="email" asp-for="Email" name="Email" placeholder="Email Address" class="form-control bg-white border-left-0 border-md">
+
+                        </div>
+                        <div>
+                            <span asp-validation-for="Email" class="text-danger"></span>
+                        </div>
+                    </div>
+
+                    <!-- Phone Number -->
+                    <div class="col-lg-12 mb-4">
+                        <div class="input-group ">
+                            <div class="input-group-prepend">
+                                <span class="input-group-text bg-white px-4 border-md border-right-0">
+                                    <i class="fa fa-phone-square text-muted"></i>
+                                </span>
+                            </div>
+                            <select id="countryCode" name="countryCode" style="max-width: 80px" class="custom-select form-control bg-white border-left-0 border-md font-weight-bold text-muted">
+                                <option value="">+91</option>
+                            </select>
+                            <input type="tel" asp-for="PhoneNumber" name="PhoneNumber" placeholder="Phone Number" class="form-control bg-white border-md border-left-0 pl-3">
+                        </div>
+                        <div>
+                            <span asp-validation-for="PhoneNumber" class="text-danger"></span>
+                        </div>
+                    </div>
+
+
+                    <!-- Role -->
+                    <div class="col-lg-12 mb-4">
+                        <div class="input-group ">
+                            <div class="input-group-prepend">
+                                <span class="input-group-text bg-white px-4 border-md border-right-0">
+                                    <i class="fa-solid fa-street-view"></i>
+                                </span>
+                            </div>
+                            <select asp-for="Role" name="Role" class="form-control custom-select bg-white border-left-0 border-md">
+                                <option value="0" selected>Choose your role</option>
+                                <option value="1">Customer</option>
+                            </select>
+                        </div>
+                        <div>
+                            <span asp-validation-for="Role" class="text-danger"></span>
+                        </div>
+                    </div>
+
+                    <!-- Password -->
+                    <div class=" col-lg-6 mb-4">
+                        <div class="input-group">
+                            <div class="input-group-prepend">
+                                <span class="input-group-text bg-white px-4 border-md border-right-0">
+                                    <i class="fa fa-lock text-muted"></i>
+                                </span>
+                            </div>
+                            <input type="password" asp-for="Password" name="Password" placeholder="Password" class="form-control bg-white border-left-0 border-md">
+                        </div>
+                        <div>
+                            <span asp-validation-for="Password" class="text-danger"></span>
+                        </div>
+                    </div>
+
+                    <!-- Password Confirmation -->
+                    <div class=" col-lg-6 mb-4">
+                        <div class="input-group">
+                            <div class="input-group-prepend">
+                                <span class="input-group-text bg-white px-4 border-md border-right-0">
+                                    <i class="fa fa-lock text-muted"></i>
+                                </span>
+                            </div>
+                            <input type="password" asp-for="ConfirmPassword" name="ConfirmPassword" placeholder="Confirm Password" class="form-control bg-white border-left-0 border-md">
+                        </div>
+                        <div>
+                            <span asp-validation-for="ConfirmPassword" class="text-danger"></span>
+                        </div>
+                    </div>
+
+                    <!-- Upload Profile Image -->
+                    <div class=" col-lg-6 mb-4">
+                        <div class="input-group">
+                            <div class="input-group-prepend w-25">
+                                <span class="input-group-text bg-white px-4 border-md border-right-0">
+                                    <i class="fa-solid fa-image"></i>
+                                </span>
+                            </div>
+                            <input type="hidden" asp-for="ProfileImageUrl" name="ProfileImageUrl">
+                            <input type="file" id="ProfileImageUrlClick" name="ProfileImageUrl" style="display:none;">
+                            <a class="browse btn btn-primary px-3 w-75 text-light" id="UploadImgButton" onclick="SelectProfileImg();">Profile Iamge</a>
+                        </div>
+                        <div>
+                            <span asp-validation-for="ProfileImageUrl" class="text-danger"></span>
+                        </div>
+                    </div>
+
+                    <!-- Submit Button -->
+                    <div class="form-group col-lg-12 mx-auto mb-0">
+                        <button type="submit" class="btn btn-primary btn-block py-2">
+                            <span class="font-weight-bold">Create your account</span>
+                        </button>
+                    </div>
+
+                    <!-- Divider Text -->
+                    <div class="form-group col-lg-12 mx-auto d-flex align-items-center my-4">
+                        <div class="border-bottom w-100 ml-5"></div>
+                        <span class="px-2 small text-muted font-weight-bold text-muted">OR</span>
+                        <div class="border-bottom w-100 mr-5"></div>
+                    </div>
+
+                    <!-- Social Login -->
+                    <div class="form-group col-lg-12 mx-auto">
+                        <a href="#" class="btn btn-primary btn-block py-2 btn-facebook">
+                            <i class="fa-brands fa-facebook mr-2"></i>
+                            <span class="font-weight-bold">Continue with Facebook</span>
+                        </a>
+                        <a href="#" class="btn btn-primary btn-block py-2 btn-twitter">
+                            <i class="fa-brands fa-twitter mr-2"></i>
+                            <span class="font-weight-bold">Continue with Twitter</span>
+                        </a>
+                    </div>
+
+                    <!-- Already Registered -->
+                    <div class="text-center w-100">
+                        <p class="text-muted font-weight-bold">Already Registered? <a asp-controller="Account" asp-action="UserLogin" class="text-primary ml-2">Login</a></p>
+                    </div>
+
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptPartial");}
+}
+
+
+<script>
+    function SelectProfileImg() {
+        $("#ProfileImageUrlClick").click();
+    }
+</script>
+
+<script type="module">
+    // Import the functions you need from the SDKs you need
+    import { initializeApp } from "https://www.gstatic.com/firebasejs/9.14.0/firebase-app.js";
+    import { getAnalytics } from "https://www.gstatic.com/firebasejs/9.14.0/firebase-analytics.js";
+    // TODO: Add SDKs for Firebase products that you want to use
+    // https://firebase.google.com/docs/web/setup#available-libraries
+
+    // Your web app's Firebase configuration
+    // For Firebase JS SDK v7.20.0 and later, measurementId is optional
+    const firebaseConfig = {
+        apiKey: "AIzaSyDA-_hK8WV2ly9Jo0DTuEotQzhxDRH8HlE",
+        authDomain: "spexe-commmaster-27f1f.firebaseapp.com",
+        projectId: "spexe-commmaster-27f1f",
+        storageBucket: "spexe-commmaster-27f1f.appspot.com",
+        messagingSenderId: "506556560365",
+        appId: "1:506556560365:web:332f4059672322f586ede4",
+        measurementId: "G-FW4Y9ZXMF3"
+    };
+
+    // Initialize Firebase
+    const app = initializeApp(firebaseConfig);
+    const analytics = getAnalytics(app);
+
+
+    import { getStorage, ref as sRef, uploadBytesResumable, getDownloadURL } from "/lib/firebase/firebase-storage.js";
+
+    //Image upload
+
+    var files = [];
+    var reader = new FileReader();
+
+    var FileName;
+    var FileExtention;
+
+    $("#ProfileImageUrlClick").on('change', function (e) {
+        ShowSpinner();
+        $("#UploadImgButton").attr("onclick", "");  
+        files = e.target.files;
+        FileExtention = GetFileExt(files[0]);
+        FileName = GetFileName(files[0]);
+        reader.readAsDataURL(files[0]);
+    });
+
+    reader.onload = function () {
+
+        UploadProcess();
+    }
+
+
+    function GetFileExt(file) {
+
+        var temp = file.name.split('.');
+        var ext = temp.slice((temp.length - 1), (temp.length));
+        return '.' + ext[0];
+    }
+
+    function GetFileName(file) {
+
+        var temp = file.name.split('.');
+        var fname = temp.slice(0, -1).join('.');
+        return fname;
+    }
+
+
+    async function UploadProcess() {
+
+        var ImgToUpload = files[0];
+
+        var ImgName = FileName + FileExtention;
+
+        const metaData = {
+            contentType: ImgToUpload.type
+        }
+
+        const storage = getStorage();
+
+        const storageRef = sRef(storage, "Images/" + ImgName);
+
+        const UploadTask = uploadBytesResumable(storageRef, ImgToUpload, metaData);
+
+        UploadTask.on('state-changed', (snapshot) => {
+
+            // var progress = (snapshot.byteTransferred / snapshot.totalBytes) * 100;
+            // proglab.innerHTML = "Upload " + progress + "%";
+        },
+            (error) => {
+                alert("error: image not uploaded");
+            },
+            () => {
+
+                getDownloadURL(UploadTask.snapshot.ref).then((downloadUrl) => {
+
+                    $("#ProfileImageUrl").val(downloadUrl);
+                    HideSpinner();
+                })
+            }
+        );
+    }
+</script>

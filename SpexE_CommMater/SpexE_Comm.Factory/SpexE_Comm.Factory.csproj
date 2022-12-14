@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\SpexE_Comm.Data\SpexE_Comm.Data.csproj" />
+    <ProjectReference Include="..\SpexE_Comm.Model\SpexE_Comm.Model.csproj" />
+    <ProjectReference Include="..\SpexE_Comm.Service\SpexE_Comm.Service.csproj" />
+  </ItemGroup>
+
+</Project>

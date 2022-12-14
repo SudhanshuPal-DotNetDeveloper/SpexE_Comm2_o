@@ -1,0 +1,32 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <UserSecretsId>aspnet-SpexE_Comm.Admin-0C2F1236-E20A-4F59-95DD-1B61215FA408</UserSecretsId>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="ClosedXML.Signed" Version="0.95.4" />
+    <PackageReference Include="GemBox.Spreadsheet" Version="49.0.1127" />
+    <PackageReference Include="Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore" Version="3.1.30" />
+    <PackageReference Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore" Version="3.1.30" />
+    <PackageReference Include="Microsoft.AspNetCore.Identity.UI" Version="3.1.30" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="3.1.30" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="3.1.30">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.IdentityModel.Protocols.OpenIdConnect" Version="6.24.0" />
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="3.1.5" />
+    <PackageReference Include="NLog.Web" Version="5.1.4" />
+    <PackageReference Include="WebEssentials.AspNetCore.PWA" Version="1.0.65" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\SpexE_Comm.Data\SpexE_Comm.Data.csproj" />
+    <ProjectReference Include="..\SpexE_Comm.Factory\SpexE_Comm.Factory.csproj" />
+    <ProjectReference Include="..\SpexE_Comm.Model\SpexE_Comm.Model.csproj" />
+    <ProjectReference Include="..\SpexE_Comm.Service\SpexE_Comm.Service.csproj" />
+  </ItemGroup>
+
+</Project>

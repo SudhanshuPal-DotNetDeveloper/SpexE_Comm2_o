@@ -1,0 +1,295 @@
+﻿@inject Microsoft.AspNetCore.Http.IHttpContextAccessor HttpContextAccessor
+@inject SpexE_Comm.Service.IMembershipService _membershipService
+@using SpexE_Comm.Data.Data
+@using SpexE_Comm.Model
+@using Microsoft.EntityFrameworkCore
+@using System.Text
+@inject SpexE_Comm.Web.Helper.CurrentUser.ICurrentUser _currentUser
+
+@{
+    var userName = HttpContextAccessor.HttpContext.Request.Cookies["SpexE_CommUserName"];
+    var currentEmailId = HttpContextAccessor.HttpContext.Request.Cookies["SpexE_Comm"];
+    var _context = new SpexE_CommContext();
+    string email = string.Empty;
+    string role = string.Empty;
+    string action = string.Empty;
+    string controller = string.Empty;
+    string displayRole = string.Empty;
+    string imageUrl = string.Empty;
+    string profileImageDefault = string.Empty;
+    if (!string.IsNullOrEmpty(currentEmailId))
+    {
+        UTF8Encoding encodepwd = new UTF8Encoding();
+        Decoder Decode = encodepwd.GetDecoder();
+        byte[] todecode_byte = Convert.FromBase64String(currentEmailId);
+        int charCount = Decode.GetCharCount(todecode_byte, 0, todecode_byte.Length);
+        char[] decoded_char = new char[charCount];
+        Decode.GetChars(todecode_byte, 0, todecode_byte.Length, decoded_char, 0);
+        email = new String(decoded_char);
+
+        var membership = _context.Membership.Include(x => x.User).ThenInclude(x => x.UserRole).ThenInclude(x => x.Role).Where(x => x.Email == email).FirstOrDefault();
+        if (membership != null)
+        {
+            if (membership.User.UserRole.Role != null)
+            {
+                role = membership.User.UserRole.Role.RoleName;
+            }
+            userName = string.Format(ConstantVariableModel.DISPLAY_NAME, membership.FirstName, !string.IsNullOrEmpty(membership.LastName) ? membership.LastName : string.Empty);
+
+
+            if (membership.ProfileImageUrl != null)
+            {
+                profileImageDefault = membership.ProfileImageUrl;
+            }
+            else
+            {
+                profileImageDefault = "https://firebasestorage.googleapis.com/v0/b/spexe-commmaster-27f1f.appspot.com/o/Images%2FUserLogo.png?alt=media&token=08f0dac6-a2c4-4f4b-80df-082f7f60d093";
+            }
+
+        }
+    }
+}
+
+<link rel="stylesheet" href="~/css/Partial/Header/_Layout.css" />
+
+<div class="overlay"></div>
+
+<div class="utility-nav d-none d-md-block">
+    <div class="container">
+        <div class="row">
+            <div class="col-12 col-md-6">
+                <p class="small">
+                    <i class="bx bx-envelope"></i> spexE_Commerce@outlook.com | <i class="bx bx-phone"></i> +91-9877662210
+                </p>
+            </div>
+
+            <div class="col-12 col-md-6 text-right">
+                <p class="small">Free shipping on total of &#8377; 2000 of all products</p>
+            </div>
+        </div>
+    </div>
+</div>
+
+<nav class="navbar navbar-expand-md navbar-light bg-light main-menu" style="box-shadow:none">
+    <div class="container">
+
+        <button type="button" id="sidebarCollapse" class="btn btn-link d-block d-md-none">
+            <i class="bx bx-menu icon-single"></i>
+        </button>
+
+        <a asp-controller="Home" asp-action="Index">
+            <img class="font-weight-bold" src="~/Images/Project Logo/SpexGlobelLogo.png">
+        </a>
+
+        <ul class="navbar-nav ml-auto d-block d-md-none">
+            <li class="nav-item">
+                <a class="btn btn-link" href="#"><i class="bx bxs-cart icon-single"></i> <span class="badge badge-danger">3</span></a>
+            </li>
+        </ul>
+
+        <div class="collapse navbar-collapse">
+            <form class="form-inline my-2 my-lg-0 mx-auto">
+                <input class="form-control" type="search" placeholder="Search for products..." aria-label="Search">
+                <button class="btn btn-success my-2 my-sm-0" type="submit"><i class="bx bx-search"></i></button>
+            </form>
+
+            @if (userName != null)
+            {
+                <div class="dropdown">
+                    <button class="btn btn-default dropdown-toggle" type="button" id="menu1" data-toggle="dropdown">
+                        <img src="@profileImageDefault" style=" width: 60px; height: 8vh; border-radius: 50%;">
+                        <span class="caret"></span>
+                    </button>
+                    <div class="row dropdown-menu" role="menu" aria-labelledby="menu1" style=" width: 323px; left:-70% !important;">
+                        <div class="col-lg-12">
+                            <div class="card mb-4">
+                                <div class="card-body text-center">
+                                    <img src="@profileImageDefault" alt="avatar" class="rounded-circle img-fluid" style="width: 150px; height: 24vh; ">
+                                    <h5 class="my-3">@userName</h5>
+                                    <p class="text-muted mb-1">@role</p>
+                                    <p class="text-muted mb-4">Address</p>
+                                    <div class="d-flex justify-content-between mb-2">
+                                        <a class="btn btn-primary" asp-controller="Dashboard" asp-action="UserDashboard">View Account</a>
+                                        <a class="btn btn-outline-primary ms-1" asp-controller="Account" asp-action="Logout">Logout</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            }
+            else
+            {
+                <ul class="navbar-nav">
+                    <li class="nav-item">
+                        <a class="btn btn-link" href="#"><i class="bx bxs-cart icon-single"></i> <span class="badge badge-danger">0</span></a>
+                    </li>
+                    <li class="nav-item ml-md-3">
+                        <a class="btn btn-primary" asp-controller="Account" asp-action="UserLogin">Login</a>
+                    </li>
+                    <li class="nav-item ml-md-3">
+                        <a class="btn btn-primary" asp-controller="Account" asp-action="UserRegister">Register</a>
+                    </li>
+                </ul>
+
+            }
+        </div>
+
+    </div>
+</nav>
+
+<nav class="navbar navbar-expand-md navbar-light bg-light sub-menu">
+    <div class="container">
+        <div class="collapse navbar-collapse" id="navbar">
+            <ul class="navbar-nav mx-auto">
+                <li class="nav-item active">
+                    <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="#">Products</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="#">Schools</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" asp-controller="Home" asp-action="AboutUs">About Us</a>
+                </li>
+                <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                        Support
+                    </a>
+                    <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                        <a class="dropdown-item" href="#">Delivery Information</a>
+                        <a class="dropdown-item" href="#">Privacy Policy</a>
+                        <a class="dropdown-item" href="#">Terms & Conditions</a>
+                    </div>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="#">Contact</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+</nav>
+
+<div class="search-bar d-block d-md-none">
+    <div class="container">
+        <div class="row">
+            <div class="col-12">
+                <form class="form-inline mb-3 mx-auto">
+                    <input class="form-control" type="search" placeholder="Search for products..." aria-label="Search">
+                    <button class="btn btn-success" type="submit"><i class="bx bx-search"></i></button>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Sidebar -->
+<nav id="sidebar">
+    <div class="sidebar-header">
+        <div class="container">
+            <div class="row align-items-center">
+                <div class="col-10 pl-0">
+                    @if (userName != null)
+                    {
+                        <div class="row">
+                            <div class="col-4">
+                                <img src="@profileImageDefault" style=" width: 60px; height: 8vh; border-radius: 50%;">
+                            </div>
+                            <div class="col-8">
+                                <h4 class="text-primary pt-3">@userName</h4>
+                            </div>
+                        </div>
+                    }
+                    else
+                    {
+                        <a class="btn btn-primary" href="#"><i class="bx bxs-user-circle mr-1"></i> Log In</a>
+                    }
+                </div>
+
+                <div class="col-2 text-left">
+                    <button type="button" id="sidebarCollapseX" class="btn btn-link">
+                        <i class="bx bx-x icon-single"></i>
+                    </button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <ul class="list-unstyled components links">
+        <li class="active">
+            <a href="#"><i class='bx bx-home bx-tada mr-3'></i> Home</a>
+        </li>
+        <li>
+            <a href="#"><i class='bx bx-carousel bx-tada mr-3'></i> Products</a>
+        </li>
+        <li>
+            <a href="#"><i class="bx bx-book-open bx-tada mr-3"></i> Schools</a>
+        </li>
+        <li>
+            <a asp-controller="Home" asp-action="AboutUs"><i class="bx bx-crown bx-tada mr-3"></i> About Us</a>
+        </li>
+        <li>
+            <a href="#pageSubmenu" data-toggle="collapse" aria-expanded="false" class="dropdown-toggle">
+                <i class="bx bx-help-circle bx-tada mr-3"></i>
+                Support
+            </a>
+            <ul class="collapse list-unstyled" id="pageSubmenu">
+                <li>
+                    <a href="#">Delivery Information</a>
+                </li>
+                <li>
+                    <a href="#">Privacy Policy</a>
+                </li>
+                <li>
+                    <a href="#">Terms & Conditions</a>
+                </li>
+            </ul>
+        </li>
+        <li>
+            <a href="#"><i class="bx bx-phone bx-tada mr-3"></i> Contact</a>
+        </li>
+        @if (userName != null)
+        {
+            <li>
+                <a asp-controller="Dashboard" asp-action="UserDashboard"><i class='bx bxs-cog bx-tada mr-3'></i> View Account</a>
+            </li>
+            <li>
+                <a asp-controller="Account" asp-action="Logout"><i class='bx bx-log-out bx-tada mr-3'></i> Sign Out</a>
+            </li>
+        }
+    </ul>
+
+    <h6 class="text-uppercase mb-1">Categories</h6>
+    <ul class="list-unstyled components mb-3">
+        <li>
+            <a href="#">Category 1</a>
+        </li>
+        <li>
+            <a href="#">Category 1</a>
+        </li>
+        <li>
+            <a href="#">Category 1</a>
+        </li>
+        <li>
+            <a href="#">Category 1</a>
+        </li>
+        <li>
+            <a href="#">Category 1</a>
+        </li>
+        <li>
+            <a href="#">Category 1</a>
+        </li>
+    </ul>
+
+    <ul class="social-icons">
+        <li><a href="#" target="_blank" title=""><i class="fa-brands fa-facebook-f"></i></a></li>
+        <li><a href="#" target="_blank" title=""><i class="fa-brands fa-twitter"></i></a></li>
+        <li><a href="#" target="_blank" title=""><i class="fa-brands fa-linkedin-in"></i></a></li>
+        <li><a href="#" target="_blank" title=""><i class="fa-brands fa-instagram"></i></a></li>
+    </ul>
+
+</nav>
+
+

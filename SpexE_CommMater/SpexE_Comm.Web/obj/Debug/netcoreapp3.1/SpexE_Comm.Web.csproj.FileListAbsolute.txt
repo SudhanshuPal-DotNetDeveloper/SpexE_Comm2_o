@@ -1,0 +1,990 @@
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\appsettings.json
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\SpexE_Comm.Web.StaticWebAssets.xml
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\SpexE_Comm.Web.exe
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\SpexE_Comm.Web.deps.json
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\SpexE_Comm.Web.runtimeconfig.json
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\SpexE_Comm.Web.runtimeconfig.dev.json
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\SpexE_Comm.Web.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\SpexE_Comm.Web.pdb
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Antiforgery.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.Core.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authorization.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authorization.Policy.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Authorization.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Forms.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Server.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Web.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.CookiePolicy.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Cors.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.DataProtection.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Diagnostics.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.HostFiltering.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Hosting.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Html.Abstractions.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Abstractions.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Connections.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Extensions.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Features.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.HttpOverrides.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.HttpsPolicy.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Identity.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Localization.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Localization.Routing.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Metadata.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Core.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Cors.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Localization.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Razor.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Razor.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Razor.Runtime.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.ResponseCaching.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.ResponseCompression.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Rewrite.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Routing.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.HttpSys.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.IIS.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.Kestrel.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Session.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.Common.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.Core.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.StaticFiles.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.WebSockets.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.WebUtilities.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.CSharp.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.Ini.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.Xml.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileProviders.Composite.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Http.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Localization.Abstractions.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Localization.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.TraceSource.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.ObjectPool.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Options.DataAnnotations.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.WebEncoders.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.JSInterop.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.Net.Http.Headers.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.VisualBasic.Core.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.VisualBasic.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.Win32.Primitives.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\mscorlib.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\netstandard.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\System.AppContext.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\System.Buffers.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\System.Collections.Concurrent.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\System.Collections.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\System.Collections.NonGeneric.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\System.Collections.Specialized.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.DataAnnotations.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.EventBasedAsync.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.Primitives.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.TypeConverter.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\System.Configuration.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\System.Console.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\System.Core.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\System.Data.Common.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\System.Data.DataSetExtensions.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\System.Data.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Contracts.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Debug.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.FileVersionInfo.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Process.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.StackTrace.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.TextWriterTraceListener.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Tools.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.TraceSource.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Tracing.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\System.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\System.Drawing.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\System.Drawing.Primitives.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\System.Dynamic.Runtime.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\System.Globalization.Calendars.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\System.Globalization.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\System.Globalization.Extensions.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.Brotli.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.FileSystem.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.ZipFile.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\System.IO.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.DriveInfo.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.Primitives.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.Watcher.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\System.IO.IsolatedStorage.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\System.IO.MemoryMappedFiles.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\System.IO.Pipelines.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\System.IO.Pipes.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\System.IO.UnmanagedMemoryStream.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\System.Linq.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\System.Linq.Expressions.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\System.Linq.Parallel.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\System.Linq.Queryable.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\System.Memory.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\System.Net.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\System.Net.Http.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\System.Net.HttpListener.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\System.Net.Mail.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\System.Net.NameResolution.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\System.Net.NetworkInformation.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\System.Net.Ping.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\System.Net.Primitives.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\System.Net.Requests.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\System.Net.Security.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\System.Net.ServicePoint.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\System.Net.Sockets.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\System.Net.WebClient.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\System.Net.WebHeaderCollection.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\System.Net.WebProxy.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\System.Net.WebSockets.Client.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\System.Net.WebSockets.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\System.Numerics.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\System.Numerics.Vectors.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\System.ObjectModel.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\System.Reflection.DispatchProxy.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\System.Reflection.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\System.Reflection.Emit.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\System.Reflection.Emit.ILGeneration.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\System.Reflection.Emit.Lightweight.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\System.Reflection.Extensions.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\System.Reflection.Primitives.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\System.Reflection.TypeExtensions.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\System.Resources.Reader.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\System.Resources.ResourceManager.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\System.Resources.Writer.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\System.Runtime.CompilerServices.VisualC.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\System.Runtime.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\System.Runtime.Extensions.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\System.Runtime.Handles.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\System.Runtime.InteropServices.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\System.Runtime.InteropServices.WindowsRuntime.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\System.Runtime.Intrinsics.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\System.Runtime.Loader.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\System.Runtime.Numerics.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Formatters.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Json.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Primitives.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Xml.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\System.Security.Claims.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Algorithms.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Cng.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Csp.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Encoding.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Primitives.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.X509Certificates.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Xml.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\System.Security.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\System.Security.Permissions.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\System.Security.Principal.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\System.Security.SecureString.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\System.ServiceModel.Web.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\System.ServiceProcess.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\System.Text.Encoding.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\System.Text.Encoding.Extensions.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\System.Text.RegularExpressions.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\System.Threading.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\System.Threading.Overlapped.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.Dataflow.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.Extensions.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.Parallel.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\System.Threading.Thread.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\System.Threading.ThreadPool.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\System.Threading.Timer.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\System.Transactions.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\System.Transactions.Local.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\System.ValueTuple.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\System.Web.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\System.Web.HttpUtility.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\System.Windows.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\System.Windows.Extensions.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\System.Xml.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\System.Xml.Linq.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\System.Xml.ReaderWriter.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\System.Xml.Serialization.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\System.Xml.XDocument.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\System.Xml.XmlDocument.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\System.Xml.XmlSerializer.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\System.Xml.XPath.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\System.Xml.XPath.XDocument.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\WindowsBase.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\SpexE_Comm.Web.Views.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\SpexE_Comm.Web.Views.pdb
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\Azure.Core.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\Azure.Search.Documents.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\Dapper.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.AzureAD.UI.Views.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.AzureAD.UI.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.Facebook.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.Google.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Server.Kestrel.Https.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Server.Kestrel.Transport.Abstractions.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\Microsoft.Azure.KeyVault.Core.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\Microsoft.Azure.Storage.Blob.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\Microsoft.Azure.Storage.Common.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.CommandLine.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.UserSecrets.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Hosting.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Hosting.Abstractions.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Configuration.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Console.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Debug.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.EventLog.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.EventSource.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\Microsoft.Graph.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\Microsoft.Graph.Core.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Abstractions.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\Microsoft.Win32.Registry.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\NLog.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\NLog.Web.AspNetCore.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\NWebsec.AspNetCore.Core.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\NWebsec.AspNetCore.Mvc.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\NWebsec.AspNetCore.Mvc.TagHelpers.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\Plugin.FacebookClient.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\QRCoder.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\Razorpay.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\SendGrid.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\StarkbankEcdsa.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\System.Diagnostics.EventLog.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\System.Memory.Data.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\System.Reflection.Metadata.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\System.Text.Encoding.CodePages.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\System.Threading.Channels.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\Twilio.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\WebEssentials.AspNetCore.Pwa.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Diagnostics.EventLog.Messages.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Diagnostics.EventLog.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Text.Encoding.CodePages.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\SpexE_Comm.Data.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\SpexE_Comm.Factory.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\SpexE_Comm.Model.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\SpexE_Comm.Service.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\SpexE_Comm.Data.pdb
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\SpexE_Comm.Factory.pdb
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\SpexE_Comm.Model.pdb
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\SpexE_Comm.Service.pdb
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\obj\Debug\netcoreapp3.1\SpexE_Comm.Web.csproj.AssemblyReference.cache
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\obj\Debug\netcoreapp3.1\SpexE_Comm.Web.GeneratedMSBuildEditorConfig.editorconfig
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\obj\Debug\netcoreapp3.1\SpexE_Comm.Web.AssemblyInfoInputs.cache
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\obj\Debug\netcoreapp3.1\SpexE_Comm.Web.AssemblyInfo.cs
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\obj\Debug\netcoreapp3.1\SpexE_Comm.Web.csproj.CoreCompileInputs.cache
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\obj\Debug\netcoreapp3.1\SpexE_Comm.Web.MvcApplicationPartsAssemblyInfo.cs
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\obj\Debug\netcoreapp3.1\SpexE_Comm.Web.MvcApplicationPartsAssemblyInfo.cache
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\obj\Debug\netcoreapp3.1\SpexE_Comm.Web.RazorAssemblyInfo.cache
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\obj\Debug\netcoreapp3.1\SpexE_Comm.Web.RazorAssemblyInfo.cs
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\obj\Debug\netcoreapp3.1\staticwebassets\SpexE_Comm.Web.StaticWebAssets.Manifest.cache
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\obj\Debug\netcoreapp3.1\staticwebassets\SpexE_Comm.Web.StaticWebAssets.xml
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\obj\Debug\netcoreapp3.1\scopedcss\bundle\SpexE_Comm.Web.styles.css
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\obj\Debug\netcoreapp3.1\SpexE_Comm.Web.TagHelpers.input.cache
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\obj\Debug\netcoreapp3.1\SpexE_Comm.Web.TagHelpers.output.cache
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\obj\Debug\netcoreapp3.1\SpexE_Comm.Web.RazorCoreGenerate.cache
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\obj\Debug\netcoreapp3.1\Razor\Views\Account\UserLogin.cshtml.g.cs
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\obj\Debug\netcoreapp3.1\Razor\Views\Account\UserRegister.cshtml.g.cs
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_FooterPartial.cshtml.g.cs
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_HeaderPartial.cshtml.g.cs
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\obj\Debug\netcoreapp3.1\SpexE_Comm.Web.RazorTargetAssemblyInfo.cache
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\obj\Debug\netcoreapp3.1\SpexE_Comm.Web.RazorTargetAssemblyInfo.cs
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\obj\Debug\netcoreapp3.1\SpexE_Comm.Web.Views.pdb
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\obj\Debug\netcoreapp3.1\SpexE_Comm.Web.csproj.CopyComplete
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\obj\Debug\netcoreapp3.1\SpexE_Comm.Web.dll
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\obj\Debug\netcoreapp3.1\SpexE_Comm.Web.pdb
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\obj\Debug\netcoreapp3.1\SpexE_Comm.Web.genruntimeconfig.cache
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptPartial.cshtml.g.cs
+E:\.net core project\SpexE_Comm\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\libman.json
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\appsettings.json
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\libman.json
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\SpexE_Comm.Web.StaticWebAssets.xml
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\SpexE_Comm.Web.exe
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\SpexE_Comm.Web.deps.json
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\SpexE_Comm.Web.runtimeconfig.json
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\SpexE_Comm.Web.runtimeconfig.dev.json
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\SpexE_Comm.Web.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\SpexE_Comm.Web.pdb
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Antiforgery.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.Core.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authorization.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authorization.Policy.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Authorization.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Forms.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Server.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Web.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.CookiePolicy.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Cors.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.DataProtection.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Diagnostics.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.HostFiltering.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Hosting.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Html.Abstractions.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Abstractions.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Connections.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Extensions.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Features.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.HttpOverrides.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.HttpsPolicy.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Identity.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Localization.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Localization.Routing.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Metadata.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Core.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Cors.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Localization.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Razor.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Razor.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Razor.Runtime.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.ResponseCaching.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.ResponseCompression.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Rewrite.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Routing.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.HttpSys.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.IIS.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.Kestrel.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Session.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.Common.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.Core.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.StaticFiles.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.WebSockets.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.WebUtilities.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.CSharp.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.Ini.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.Xml.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileProviders.Composite.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Http.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Localization.Abstractions.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Localization.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.TraceSource.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.ObjectPool.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Options.DataAnnotations.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.WebEncoders.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.JSInterop.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.Net.Http.Headers.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.VisualBasic.Core.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.VisualBasic.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.Win32.Primitives.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\mscorlib.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\netstandard.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\System.AppContext.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\System.Buffers.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\System.Collections.Concurrent.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\System.Collections.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\System.Collections.NonGeneric.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\System.Collections.Specialized.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.DataAnnotations.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.EventBasedAsync.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.Primitives.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.TypeConverter.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\System.Configuration.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\System.Console.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\System.Core.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\System.Data.Common.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\System.Data.DataSetExtensions.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\System.Data.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Contracts.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Debug.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.FileVersionInfo.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Process.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.StackTrace.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.TextWriterTraceListener.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Tools.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.TraceSource.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Tracing.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\System.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\System.Drawing.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\System.Drawing.Primitives.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\System.Dynamic.Runtime.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\System.Globalization.Calendars.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\System.Globalization.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\System.Globalization.Extensions.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.Brotli.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.FileSystem.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.ZipFile.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\System.IO.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.DriveInfo.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.Primitives.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.Watcher.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\System.IO.IsolatedStorage.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\System.IO.MemoryMappedFiles.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\System.IO.Pipelines.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\System.IO.Pipes.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\System.IO.UnmanagedMemoryStream.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\System.Linq.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\System.Linq.Expressions.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\System.Linq.Parallel.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\System.Linq.Queryable.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\System.Memory.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\System.Net.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\System.Net.Http.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\System.Net.HttpListener.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\System.Net.Mail.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\System.Net.NameResolution.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\System.Net.NetworkInformation.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\System.Net.Ping.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\System.Net.Primitives.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\System.Net.Requests.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\System.Net.Security.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\System.Net.ServicePoint.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\System.Net.Sockets.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\System.Net.WebClient.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\System.Net.WebHeaderCollection.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\System.Net.WebProxy.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\System.Net.WebSockets.Client.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\System.Net.WebSockets.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\System.Numerics.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\System.Numerics.Vectors.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\System.ObjectModel.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\System.Reflection.DispatchProxy.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\System.Reflection.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\System.Reflection.Emit.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\System.Reflection.Emit.ILGeneration.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\System.Reflection.Emit.Lightweight.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\System.Reflection.Extensions.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\System.Reflection.Primitives.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\System.Reflection.TypeExtensions.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\System.Resources.Reader.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\System.Resources.ResourceManager.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\System.Resources.Writer.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\System.Runtime.CompilerServices.VisualC.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\System.Runtime.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\System.Runtime.Extensions.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\System.Runtime.Handles.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\System.Runtime.InteropServices.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\System.Runtime.InteropServices.WindowsRuntime.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\System.Runtime.Intrinsics.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\System.Runtime.Loader.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\System.Runtime.Numerics.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Formatters.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Json.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Primitives.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Xml.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\System.Security.Claims.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Algorithms.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Cng.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Csp.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Encoding.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Primitives.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.X509Certificates.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Xml.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\System.Security.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\System.Security.Permissions.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\System.Security.Principal.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\System.Security.SecureString.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\System.ServiceModel.Web.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\System.ServiceProcess.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\System.Text.Encoding.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\System.Text.Encoding.Extensions.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\System.Text.RegularExpressions.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\System.Threading.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\System.Threading.Overlapped.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.Dataflow.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.Extensions.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.Parallel.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\System.Threading.Thread.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\System.Threading.ThreadPool.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\System.Threading.Timer.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\System.Transactions.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\System.Transactions.Local.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\System.ValueTuple.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\System.Web.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\System.Web.HttpUtility.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\System.Windows.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\System.Windows.Extensions.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\System.Xml.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\System.Xml.Linq.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\System.Xml.ReaderWriter.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\System.Xml.Serialization.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\System.Xml.XDocument.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\System.Xml.XmlDocument.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\System.Xml.XmlSerializer.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\System.Xml.XPath.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\System.Xml.XPath.XDocument.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\refs\WindowsBase.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\SpexE_Comm.Web.Views.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\SpexE_Comm.Web.Views.pdb
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\Azure.Core.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\Azure.Search.Documents.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\Dapper.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\Firebase.Auth.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\Firebase.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\Firebase.Storage.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\LiteDB.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.AzureAD.UI.Views.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.AzureAD.UI.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.Facebook.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.Google.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Server.Kestrel.Https.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Server.Kestrel.Transport.Abstractions.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\Microsoft.Azure.KeyVault.Core.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\Microsoft.Azure.Storage.Blob.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\Microsoft.Azure.Storage.Common.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.CommandLine.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.UserSecrets.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Hosting.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Hosting.Abstractions.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Configuration.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Console.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Debug.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.EventLog.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.EventSource.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\Microsoft.Graph.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\Microsoft.Graph.Core.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Abstractions.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\System.ServiceModel.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\Microsoft.Win32.Registry.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\NLog.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\NLog.Web.AspNetCore.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\NWebsec.AspNetCore.Core.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\NWebsec.AspNetCore.Mvc.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\NWebsec.AspNetCore.Mvc.TagHelpers.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\Plugin.FacebookClient.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\QRCoder.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\Razorpay.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\SendGrid.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\StarkbankEcdsa.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\System.Diagnostics.EventLog.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\System.Memory.Data.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\System.Reactive.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\System.Reflection.Metadata.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\System.Text.Encoding.CodePages.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\System.Threading.Channels.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\Twilio.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\WebEssentials.AspNetCore.Pwa.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Diagnostics.EventLog.Messages.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Diagnostics.EventLog.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Text.Encoding.CodePages.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\SpexE_Comm.Data.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\SpexE_Comm.Factory.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\SpexE_Comm.Model.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\SpexE_Comm.Service.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\SpexE_Comm.Data.pdb
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\SpexE_Comm.Factory.pdb
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\SpexE_Comm.Model.pdb
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\bin\Debug\netcoreapp3.1\SpexE_Comm.Service.pdb
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\obj\Debug\netcoreapp3.1\SpexE_Comm.Web.csproj.AssemblyReference.cache
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\obj\Debug\netcoreapp3.1\SpexE_Comm.Web.GeneratedMSBuildEditorConfig.editorconfig
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\obj\Debug\netcoreapp3.1\SpexE_Comm.Web.AssemblyInfoInputs.cache
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\obj\Debug\netcoreapp3.1\SpexE_Comm.Web.AssemblyInfo.cs
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\obj\Debug\netcoreapp3.1\SpexE_Comm.Web.csproj.CoreCompileInputs.cache
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\obj\Debug\netcoreapp3.1\SpexE_Comm.Web.MvcApplicationPartsAssemblyInfo.cs
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\obj\Debug\netcoreapp3.1\SpexE_Comm.Web.MvcApplicationPartsAssemblyInfo.cache
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\obj\Debug\netcoreapp3.1\SpexE_Comm.Web.RazorAssemblyInfo.cache
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\obj\Debug\netcoreapp3.1\SpexE_Comm.Web.RazorAssemblyInfo.cs
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\obj\Debug\netcoreapp3.1\staticwebassets\SpexE_Comm.Web.StaticWebAssets.Manifest.cache
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\obj\Debug\netcoreapp3.1\staticwebassets\SpexE_Comm.Web.StaticWebAssets.xml
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\obj\Debug\netcoreapp3.1\scopedcss\bundle\SpexE_Comm.Web.styles.css
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\obj\Debug\netcoreapp3.1\SpexE_Comm.Web.TagHelpers.input.cache
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\obj\Debug\netcoreapp3.1\SpexE_Comm.Web.TagHelpers.output.cache
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\obj\Debug\netcoreapp3.1\SpexE_Comm.Web.RazorCoreGenerate.cache
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\obj\Debug\netcoreapp3.1\Razor\Views\Account\UserLogin.cshtml.g.cs
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\obj\Debug\netcoreapp3.1\Razor\Views\Account\UserRegister.cshtml.g.cs
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_FooterPartial.cshtml.g.cs
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_HeaderPartial.cshtml.g.cs
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptPartial.cshtml.g.cs
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\obj\Debug\netcoreapp3.1\SpexE_Comm.Web.RazorTargetAssemblyInfo.cache
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\obj\Debug\netcoreapp3.1\SpexE_Comm.Web.RazorTargetAssemblyInfo.cs
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\obj\Debug\netcoreapp3.1\SpexE_Comm.Web.Views.pdb
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\obj\Debug\netcoreapp3.1\SpexE_Comm.Web.csproj.CopyComplete
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\obj\Debug\netcoreapp3.1\SpexE_Comm.Web.dll
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\obj\Debug\netcoreapp3.1\SpexE_Comm.Web.pdb
+E:\SpexE_Comm\SpexE_CommMater\SpexE_Comm.Web\obj\Debug\netcoreapp3.1\SpexE_Comm.Web.genruntimeconfig.cache

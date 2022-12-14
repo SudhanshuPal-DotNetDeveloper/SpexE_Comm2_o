@@ -1,0 +1,379 @@
+﻿@model SpexE_Comm.Model.MembershipModel
+@using SpexE_Comm.Model
+@{
+    ViewData["Title"] = "User Login";
+}
+
+<link rel="stylesheet" href="~/css/Controller/Account/UserRegistration and UserLogin/RegisterationAndLogin.css" />
+
+<div class="container">
+    <div class="row py-5 mt-4 align-items-center">
+        <!-- For Login -->
+        <div class="col-md-5 pr-lg-5 mb-5 mb-md-0">
+            <img src="https://bootstrapious.com/i/snippets/sn-registeration/illustration.svg" alt="" class="img-fluid mb-3 d-none d-md-block">
+            <h1>Create an Account</h1>
+            <p class="font-italic text-muted mb-0">Get access to your Orders, Wishlist and Recommendations</p>
+            <p class="font-italic text-muted">
+                Snippet By <a asp-controller="Home" asp-action="Index" class="text-muted">
+                    <u>SpexE_Comm</u>
+                </a>
+            </p>
+        </div>
+
+        <!-- Registeration Form -->
+        <div class="col-md-7 col-lg-6 ml-auto">
+            <!--Login with Email and Phone Number Tab-->
+            <ul class="nav nav-tabs" role="tablist">
+                <li class="nav-item">
+                    <a class="nav-link active" data-toggle="tab" href="#LoginEmail">Login With Email</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" data-toggle="tab" href="#LoginPhone">Login with Phone</a>
+                </li>
+            </ul>
+
+            <!--Login With Email Tab Content-->
+            <div class="tab-content">
+                <div id="LoginEmail" class="tab-pane active mt-4 pt-3">
+                    <form asp-action="UserLogin" asp-controller="Account" type="POST" role="form" id="frmLogIn">
+                        <div class="row">
+                            <!-- Email Address -->
+                            <div class="col-lg-12 mb-4">
+                                <div class="input-group ">
+                                    <div class="input-group-prepend">
+                                        <span class="input-group-text bg-white px-4 border-md border-right-0">
+                                            <i class='bx bxs-envelope bx-tada'></i>
+                                        </span>
+                                    </div>
+                                    <input type="email" asp-for="Email" name="Email" placeholder="Email Address" class="form-control bg-white border-left-0 border-md">
+
+                                </div>
+                                <div>
+                                    <span asp-validation-for="Email" class="text-danger"></span>
+                                </div>
+                            </div>
+
+                            <!-- Password -->
+                            <div class=" col-lg-12 mb-4">
+                                <div class="input-group">
+                                    <div class="input-group-prepend">
+                                        <span class="input-group-text bg-white px-4 border-md border-right-0">
+                                            <i class='bx bxs-lock-alt bx-tada'></i>
+                                        </span>
+                                    </div>
+                                    <input type="password" asp-for="Password" name="Password" placeholder="Password" class="form-control bg-white border-left-0 border-md">
+                                </div>
+                                <div>
+                                    <span asp-validation-for="Password" class="text-danger"></span>
+                                </div>
+                            </div>
+
+                            <!-- Submit Button -->
+                            <div class="form-group col-lg-12 mx-auto mb-0">
+                                <button type="button" onclick="LoginSubmit();" class="btn btn-primary btn-block py-2">
+                                    <span class="font-weight-bold">Continue</span>
+                                </button>
+                            </div>
+
+                            <!-- Divider Text -->
+                            <div class="form-group col-lg-12 mx-auto d-flex align-items-center my-4">
+                                <div class="border-bottom w-100 ml-5"></div>
+                                <span class="px-2 small text-muted font-weight-bold text-muted">OR</span>
+                                <div class="border-bottom w-100 mr-5"></div>
+                            </div>
+
+                            <!-- Social Login -->
+                            <div class="form-group col-lg-12 mx-auto">
+                                <a href="#" class="btn btn-primary btn-block py-2 btn-facebook">
+                                    <i class="fa-brands fa-facebook mr-2"></i>
+                                    <span class="font-weight-bold">Continue with Facebook</span>
+                                </a>
+                                <a href="#" class="btn btn-primary btn-block py-2 btn-twitter">
+                                    <i class="fa-brands fa-twitter mr-2"></i>
+                                    <span class="font-weight-bold">Continue with Twitter</span>
+                                </a>
+                            </div>
+
+                            <!--New Registration -->
+                            <div class="text-center w-100">
+                                <p class="text-muted font-weight-bold">New Registeration? <a asp-controller="Account" asp-action="UserRegister" class="text-primary ml-2">Register</a></p>
+                            </div>
+
+                        </div>
+                    </form>
+                </div>
+
+                <!--Login with Phone Number Tab Content-->
+                <div id="LoginPhone" class="container tab-pane fade mt-4 pt-3">
+                    <form type="POST" role="form" id="phoneLogIn">
+                        <div class="row">
+                            <!-- Phone Number -->
+                            <div class="col-lg-12 mb-4">
+                                <div class="input-group ">
+                                    <div class="input-group-prepend">
+                                        <span class="input-group-text bg-white px-4 border-md border-right-0">
+                                            <i class='bx bxs-phone bx-tada'></i>
+                                        </span>
+                                    </div>
+                                    <input type="text" asp-for="PhoneNumber" name="PhoneNumber" maxlength="10" onkeyup="numberOnly(this)" placeholder="Enter Phone Number" class="form-control bg-white border-left-0 border-md">
+
+                                </div>
+                                <div>
+                                    <span id="PhoneNumberError" class="text-danger"></span>
+                                </div>
+                            </div>
+
+                            <!--reCaptcha section-->
+                            <div class="col-lg-12 mb-4">
+                                <div id="recaptcha-container"></div>
+                            </div>
+
+                            <!-- OTP -->
+                            <div class=" col-lg-12 mb-4" id="OtpSection" style="display:none;">
+                                <div class="input-group">
+                                    <div class="input-group-prepend">
+                                        <span class="input-group-text bg-white px-4 border-md border-right-0">
+                                            <i class='bx bxs-lock-alt bx-tada'></i>
+                                        </span>
+                                    </div>
+                                    <input type="text" id="OTP" onkeyup="numberOnly(this)" maxlength="6" name="LoginOtp" placeholder="Enter OTP (One Time Password)" class="form-control bg-white border-left-0 border-md">
+                                </div>
+                                <div>
+                                    <span id="OTPError" class="text-danger"></span>
+                                </div>
+                            </div>
+
+                            <!-- Get OTP Button -->
+                            <div class="form-group col-lg-12 mx-auto mb-0" id="GetOtpBtn">
+                                <button type="button" @*onclick="GetOtp();"*@ id="SendOTP" class="btn btn-primary btn-block py-2">
+                                    <span class="font-weight-bold">Continue</span>
+                                </button>
+                            </div>
+
+                            <!-- Phone Login Button -->
+                            <div class="form-group col-lg-12 mx-auto mb-0" id="LoginPhonebtn" style="display:none;">
+                                <button type="button" @*onclick="LoginPhone();"*@ id="OTPVerify" class="btn btn-primary btn-block py-2">
+                                    <span class="font-weight-bold">Continue</span>
+                                </button>
+                            </div>
+
+                            <!-- Divider Text -->
+                            <div class="form-group col-lg-12 mx-auto d-flex align-items-center my-4">
+                                <div class="border-bottom w-100 ml-5"></div>
+                                <span class="px-2 small text-muted font-weight-bold text-muted">OR</span>
+                                <div class="border-bottom w-100 mr-5"></div>
+                            </div>
+
+                            <!-- Social Login -->
+                            <div class="form-group col-lg-12 mx-auto">
+                                <a href="#" class="btn btn-primary btn-block py-2 btn-facebook">
+                                    <i class="fa-brands fa-facebook mr-2"></i>
+                                    <span class="font-weight-bold">Continue with Facebook</span>
+                                </a>
+                                <a href="#" class="btn btn-primary btn-block py-2 btn-twitter">
+                                    <i class="fa-brands fa-twitter mr-2"></i>
+                                    <span class="font-weight-bold">Continue with Twitter</span>
+                                </a>
+                            </div>
+
+                            <!--  Registered -->
+                            <div class="text-center w-100">
+                                <p class="text-muted font-weight-bold">New Registeration? <a asp-controller="Account" asp-action="UserRegister" class="text-primary ml-2">Register</a></p>
+                            </div>
+
+                        </div>
+                    </form>
+                </div>
+            </div>
+
+        </div>
+    </div>
+</div>
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptPartial");}
+}
+
+
+<script>
+    $(document).keypress(function (event) {
+        var keycode = (event.keyCode ? event.keyCode : event.which);
+        if (keycode == '13') {
+            LoginSubmit()
+        }
+    });
+    function LoginSubmit() {
+        
+        if ($('#frmLogIn').valid()) {
+            var formC = $("#frmLogIn").serialize();
+            $.ajax({
+                type: 'POST',
+                url: "/Account/UserLogin",
+                dataType: "json",
+                data: formC,
+                success: function (response) {
+                    
+                    if (response.responseCode == "@ConstantVariableModel.ResponseCode.SUCCESS") {
+                        var a = document.createElement('a');
+                        var returnUrl = GetCookie("returnUrl");
+                        if (returnUrl) {
+                            a.href = returnUrl;
+                        }
+                        else
+                        {
+                            a.href = response.redirectUrl;
+                        }
+                        a.click();
+                    }
+                    else
+                    {
+                        //document.getElementById("messageLoginLabel").style.display = "block";
+                        //document.getElementById("messageLoginLabel").innerHTML = response.responseMessage;
+                        //document.getElementById("messageLoginLabel").classList = "server-error";
+                        //$("#progress1").hide();
+                    }
+                },
+                error: function (response) {
+                    $("#progress1").hide();
+                }
+            });
+
+        }
+    }
+
+     async function GetOtp() {
+         
+         var isNumberExisit = false;
+        await $.ajax({
+            type: 'POST',
+            url: "/Account/UserLogin",
+            dataType: "json",
+            data: {
+                PhoneNumber: $("#PhoneNumber").val()
+            },
+            success: function (response) {
+                
+                if (response == false) {
+                    $("#PhoneNumberError").html("");
+                    isNumberExisit = false;
+                }
+                else if (response == true) {
+                    $("#PhoneNumberError").html("");
+                    isNumberExisit = true;
+                }
+            },
+            error: function (response) {
+                //hide Loader
+            }
+        });
+         return isNumberExisit;
+    }
+
+    function LoginPhone() {
+        
+         $.ajax({
+            type: 'POST',
+            url: "/Account/OtpVarification",
+            dataType: "json",
+            data: {
+                PhoneNumber: $("#PhoneNumber").val()
+            },
+            success: function (response) {
+                
+                if (response.responseCode == 200) {
+                    location.href = response.redirectUrl;
+                }
+                else if (response.responseCode == 404) {
+                    $("#OTPError").html(response.responseMessage);
+                }
+            },
+            error: function (response) {
+                //hide Loader
+            }
+        });
+    }
+</script>
+
+<script type="module">
+    // Import the functions you need from the SDKs you need
+    import { initializeApp } from "https://www.gstatic.com/firebasejs/9.14.0/firebase-app.js";
+    import { getAnalytics } from "https://www.gstatic.com/firebasejs/9.14.0/firebase-analytics.js";
+    // TODO: Add SDKs for Firebase products that you want to use
+    // https://firebase.google.com/docs/web/setup#available-libraries
+
+    // Your web app's Firebase configuration
+    // For Firebase JS SDK v7.20.0 and later, measurementId is optional
+    const firebaseConfig = {
+        apiKey: "AIzaSyDA-_hK8WV2ly9Jo0DTuEotQzhxDRH8HlE",
+        authDomain: "spexe-commmaster-27f1f.firebaseapp.com",
+        projectId: "spexe-commmaster-27f1f",
+        storageBucket: "spexe-commmaster-27f1f.appspot.com",
+        messagingSenderId: "506556560365",
+        appId: "1:506556560365:web:332f4059672322f586ede4",
+        measurementId: "G-FW4Y9ZXMF3"
+    };
+
+    // Initialize Firebase
+    const app = initializeApp(firebaseConfig);
+    const analytics = getAnalytics(app);
+    //send Otp Massage
+    import { getAuth, RecaptchaVerifier, signInWithPhoneNumber } from "/lib/firebase/firebase-auth.js";
+
+    window.onload = function () {
+        render();
+    }
+
+    function render() {
+        const auth = getAuth();
+        window.recaptchaVerifier = new RecaptchaVerifier('recaptcha-container', {}, auth);
+        recaptchaVerifier.render();
+    }
+
+    $("#SendOTP").on('click', async function () {
+
+        if ($("#PhoneNumber").val() != "") {
+            var isNumberExisit = await GetOtp();
+            if (isNumberExisit == true) {
+                var a = $("#PhoneNumber").val();
+                var b = "+91";
+                var number = b + a;
+
+                const phoneNumber = number;
+                const appVerifier = window.recaptchaVerifier;
+
+                const auth = getAuth();
+                signInWithPhoneNumber(auth, phoneNumber, appVerifier)
+                    .then((confirmationResult) => {
+
+                        window.confirmationResult = confirmationResult;
+                        $("#recaptcha-container").hide();
+                        $("#OtpSection").show();
+                        $("#GetOtpBtn").hide();
+                        $("#LoginPhonebtn").show();
+                    }).catch((error) => {
+
+                        $("#PhoneNumberError").html("Please resolve the Captcha !!!");
+                    });
+            }
+            else {
+                $("#PhoneNumberError").html("You are not Register in SpexE_Comm PLease Register First !!!");
+            }
+        }
+        else {
+            $("#PhoneNumberError").html("Please enter Phone Number !!!");
+        }
+
+    });
+
+    $("#OTPVerify").on('click', function () {
+        var codes = $("#OTP").val();
+        const code = codes;
+        confirmationResult.confirm(code).then((result) => {
+
+            const user = result.user;
+            LoginPhone();
+        }).catch((error) => {
+
+            alert("Enter Valid OTP !!!");
+        });
+    });
+</script>
