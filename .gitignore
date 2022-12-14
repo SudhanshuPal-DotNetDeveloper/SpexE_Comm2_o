@@ -1,0 +1,9 @@
+################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/SpexE_CommMater/SpexE_Comm.Admin/obj
+/SpexE_CommMater/SpexE_Comm.Data/obj
+/SpexE_CommMater/SpexE_Comm.Factory/obj
+/SpexE_CommMater/SpexE_Comm.Service/obj
+/SpexE_CommMater/SpexE_Comm.Web/obj
