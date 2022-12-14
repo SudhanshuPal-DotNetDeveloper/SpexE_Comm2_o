@@ -1,18 +1,13 @@
-
-
 /SpexE_CommMater/.vs/SpexE_Comm/v16
-
-/SpexE_CommMater/SpexE_Comm.Admin/obj
-/SpexE_CommMater/SpexE_Comm.Admin/obj/Debug/netcoreapp3.1
-
+/SpexE_CommMater/.vs/SpexE_Comm/config
 /SpexE_CommMater/SpexE_Comm.Library/SpexE_Comm.Data/obj
 /SpexE_CommMater/SpexE_Comm.Library/SpexE_Comm.Data/obj/Debug/netcoreapp3.1
-
 /SpexE_CommMater/SpexE_Comm.Library/SpexE_Comm.Factory/obj
 /SpexE_CommMater/SpexE_Comm.Library/SpexE_Comm.Factory/obj/Debug/netcoreapp3.1
-
 /SpexE_CommMater/SpexE_Comm.Library/SpexE_Comm.Service/obj
 /SpexE_CommMater/SpexE_Comm.Library/SpexE_Comm.Service/obj/Debug/netcoreapp3.1
+/SpexE_CommMater/SpexE_Comm.Admin/obj
+/SpexE_CommMater/SpexE_Comm.Admin/obj/Debug/netcoreapp3.1
 
 /SpexE_CommMater/SpexE_Comm.Web/obj
 /SpexE_CommMater/SpexE_Comm.Web/obj/Debug/netcoreapp3.1
