@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\SpexE_Comm\\SpexE_CommMater\\SpexE_Comm.Admin\\SpexE_Comm.Admin.csproj": {}
+    "E:\\Project\\SpexE_Comm\\SpexE_Comm2_o\\SpexE_CommMater\\SpexE_Comm.Admin\\SpexE_Comm.Admin.csproj": {}
   },
   "projects": {
-    "E:\\SpexE_Comm\\SpexE_CommMater\\SpexE_Comm.Admin\\SpexE_Comm.Admin.csproj": {
+    "E:\\Project\\SpexE_Comm\\SpexE_Comm2_o\\SpexE_CommMater\\SpexE_Comm.Admin\\SpexE_Comm.Admin.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\SpexE_Comm\\SpexE_CommMater\\SpexE_Comm.Admin\\SpexE_Comm.Admin.csproj",
+        "projectUniqueName": "E:\\Project\\SpexE_Comm\\SpexE_Comm2_o\\SpexE_CommMater\\SpexE_Comm.Admin\\SpexE_Comm.Admin.csproj",
         "projectName": "SpexE_Comm.Admin",
-        "projectPath": "E:\\SpexE_Comm\\SpexE_CommMater\\SpexE_Comm.Admin\\SpexE_Comm.Admin.csproj",
+        "projectPath": "E:\\Project\\SpexE_Comm\\SpexE_Comm2_o\\SpexE_CommMater\\SpexE_Comm.Admin\\SpexE_Comm.Admin.csproj",
         "packagesPath": "C:\\Users\\sudha\\.nuget\\packages\\",
-        "outputPath": "E:\\SpexE_Comm\\SpexE_CommMater\\SpexE_Comm.Admin\\obj\\",
+        "outputPath": "E:\\Project\\SpexE_Comm\\SpexE_Comm2_o\\SpexE_CommMater\\SpexE_Comm.Admin\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -34,17 +34,17 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "E:\\SpexE_Comm\\SpexE_CommMater\\SpexE_Comm.Data\\SpexE_Comm.Data.csproj": {
-                "projectPath": "E:\\SpexE_Comm\\SpexE_CommMater\\SpexE_Comm.Data\\SpexE_Comm.Data.csproj"
+              "E:\\Project\\SpexE_Comm\\SpexE_Comm2_o\\SpexE_CommMater\\SpexE_Comm.Data\\SpexE_Comm.Data.csproj": {
+                "projectPath": "E:\\Project\\SpexE_Comm\\SpexE_Comm2_o\\SpexE_CommMater\\SpexE_Comm.Data\\SpexE_Comm.Data.csproj"
               },
-              "E:\\SpexE_Comm\\SpexE_CommMater\\SpexE_Comm.Factory\\SpexE_Comm.Factory.csproj": {
-                "projectPath": "E:\\SpexE_Comm\\SpexE_CommMater\\SpexE_Comm.Factory\\SpexE_Comm.Factory.csproj"
+              "E:\\Project\\SpexE_Comm\\SpexE_Comm2_o\\SpexE_CommMater\\SpexE_Comm.Factory\\SpexE_Comm.Factory.csproj": {
+                "projectPath": "E:\\Project\\SpexE_Comm\\SpexE_Comm2_o\\SpexE_CommMater\\SpexE_Comm.Factory\\SpexE_Comm.Factory.csproj"
               },
-              "E:\\SpexE_Comm\\SpexE_CommMater\\SpexE_Comm.Model\\SpexE_Comm.Model.csproj": {
-                "projectPath": "E:\\SpexE_Comm\\SpexE_CommMater\\SpexE_Comm.Model\\SpexE_Comm.Model.csproj"
+              "E:\\Project\\SpexE_Comm\\SpexE_Comm2_o\\SpexE_CommMater\\SpexE_Comm.Model\\SpexE_Comm.Model.csproj": {
+                "projectPath": "E:\\Project\\SpexE_Comm\\SpexE_Comm2_o\\SpexE_CommMater\\SpexE_Comm.Model\\SpexE_Comm.Model.csproj"
               },
-              "E:\\SpexE_Comm\\SpexE_CommMater\\SpexE_Comm.Service\\SpexE_Comm.Service.csproj": {
-                "projectPath": "E:\\SpexE_Comm\\SpexE_CommMater\\SpexE_Comm.Service\\SpexE_Comm.Service.csproj"
+              "E:\\Project\\SpexE_Comm\\SpexE_Comm2_o\\SpexE_CommMater\\SpexE_Comm.Service\\SpexE_Comm.Service.csproj": {
+                "projectPath": "E:\\Project\\SpexE_Comm\\SpexE_Comm2_o\\SpexE_CommMater\\SpexE_Comm.Service\\SpexE_Comm.Service.csproj"
               }
             }
           }
@@ -128,14 +128,14 @@
         }
       }
     },
-    "E:\\SpexE_Comm\\SpexE_CommMater\\SpexE_Comm.Data\\SpexE_Comm.Data.csproj": {
+    "E:\\Project\\SpexE_Comm\\SpexE_Comm2_o\\SpexE_CommMater\\SpexE_Comm.Data\\SpexE_Comm.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\SpexE_Comm\\SpexE_CommMater\\SpexE_Comm.Data\\SpexE_Comm.Data.csproj",
+        "projectUniqueName": "E:\\Project\\SpexE_Comm\\SpexE_Comm2_o\\SpexE_CommMater\\SpexE_Comm.Data\\SpexE_Comm.Data.csproj",
         "projectName": "SpexE_Comm.Data",
-        "projectPath": "E:\\SpexE_Comm\\SpexE_CommMater\\SpexE_Comm.Data\\SpexE_Comm.Data.csproj",
+        "projectPath": "E:\\Project\\SpexE_Comm\\SpexE_Comm2_o\\SpexE_CommMater\\SpexE_Comm.Data\\SpexE_Comm.Data.csproj",
         "packagesPath": "C:\\Users\\sudha\\.nuget\\packages\\",
-        "outputPath": "E:\\SpexE_Comm\\SpexE_CommMater\\SpexE_Comm.Data\\obj\\",
+        "outputPath": "E:\\Project\\SpexE_Comm\\SpexE_Comm2_o\\SpexE_CommMater\\SpexE_Comm.Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -218,14 +218,14 @@
         }
       }
     },
-    "E:\\SpexE_Comm\\SpexE_CommMater\\SpexE_Comm.Factory\\SpexE_Comm.Factory.csproj": {
+    "E:\\Project\\SpexE_Comm\\SpexE_Comm2_o\\SpexE_CommMater\\SpexE_Comm.Factory\\SpexE_Comm.Factory.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\SpexE_Comm\\SpexE_CommMater\\SpexE_Comm.Factory\\SpexE_Comm.Factory.csproj",
+        "projectUniqueName": "E:\\Project\\SpexE_Comm\\SpexE_Comm2_o\\SpexE_CommMater\\SpexE_Comm.Factory\\SpexE_Comm.Factory.csproj",
         "projectName": "SpexE_Comm.Factory",
-        "projectPath": "E:\\SpexE_Comm\\SpexE_CommMater\\SpexE_Comm.Factory\\SpexE_Comm.Factory.csproj",
+        "projectPath": "E:\\Project\\SpexE_Comm\\SpexE_Comm2_o\\SpexE_CommMater\\SpexE_Comm.Factory\\SpexE_Comm.Factory.csproj",
         "packagesPath": "C:\\Users\\sudha\\.nuget\\packages\\",
-        "outputPath": "E:\\SpexE_Comm\\SpexE_CommMater\\SpexE_Comm.Factory\\obj\\",
+        "outputPath": "E:\\Project\\SpexE_Comm\\SpexE_Comm2_o\\SpexE_CommMater\\SpexE_Comm.Factory\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -248,14 +248,14 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "E:\\SpexE_Comm\\SpexE_CommMater\\SpexE_Comm.Data\\SpexE_Comm.Data.csproj": {
-                "projectPath": "E:\\SpexE_Comm\\SpexE_CommMater\\SpexE_Comm.Data\\SpexE_Comm.Data.csproj"
+              "E:\\Project\\SpexE_Comm\\SpexE_Comm2_o\\SpexE_CommMater\\SpexE_Comm.Data\\SpexE_Comm.Data.csproj": {
+                "projectPath": "E:\\Project\\SpexE_Comm\\SpexE_Comm2_o\\SpexE_CommMater\\SpexE_Comm.Data\\SpexE_Comm.Data.csproj"
               },
-              "E:\\SpexE_Comm\\SpexE_CommMater\\SpexE_Comm.Model\\SpexE_Comm.Model.csproj": {
-                "projectPath": "E:\\SpexE_Comm\\SpexE_CommMater\\SpexE_Comm.Model\\SpexE_Comm.Model.csproj"
+              "E:\\Project\\SpexE_Comm\\SpexE_Comm2_o\\SpexE_CommMater\\SpexE_Comm.Model\\SpexE_Comm.Model.csproj": {
+                "projectPath": "E:\\Project\\SpexE_Comm\\SpexE_Comm2_o\\SpexE_CommMater\\SpexE_Comm.Model\\SpexE_Comm.Model.csproj"
               },
-              "E:\\SpexE_Comm\\SpexE_CommMater\\SpexE_Comm.Service\\SpexE_Comm.Service.csproj": {
-                "projectPath": "E:\\SpexE_Comm\\SpexE_CommMater\\SpexE_Comm.Service\\SpexE_Comm.Service.csproj"
+              "E:\\Project\\SpexE_Comm\\SpexE_Comm2_o\\SpexE_CommMater\\SpexE_Comm.Service\\SpexE_Comm.Service.csproj": {
+                "projectPath": "E:\\Project\\SpexE_Comm\\SpexE_Comm2_o\\SpexE_CommMater\\SpexE_Comm.Service\\SpexE_Comm.Service.csproj"
               }
             }
           }
@@ -288,14 +288,14 @@
         }
       }
     },
-    "E:\\SpexE_Comm\\SpexE_CommMater\\SpexE_Comm.Model\\SpexE_Comm.Model.csproj": {
+    "E:\\Project\\SpexE_Comm\\SpexE_Comm2_o\\SpexE_CommMater\\SpexE_Comm.Model\\SpexE_Comm.Model.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\SpexE_Comm\\SpexE_CommMater\\SpexE_Comm.Model\\SpexE_Comm.Model.csproj",
+        "projectUniqueName": "E:\\Project\\SpexE_Comm\\SpexE_Comm2_o\\SpexE_CommMater\\SpexE_Comm.Model\\SpexE_Comm.Model.csproj",
         "projectName": "SpexE_Comm.Model",
-        "projectPath": "E:\\SpexE_Comm\\SpexE_CommMater\\SpexE_Comm.Model\\SpexE_Comm.Model.csproj",
+        "projectPath": "E:\\Project\\SpexE_Comm\\SpexE_Comm2_o\\SpexE_CommMater\\SpexE_Comm.Model\\SpexE_Comm.Model.csproj",
         "packagesPath": "C:\\Users\\sudha\\.nuget\\packages\\",
-        "outputPath": "E:\\SpexE_Comm\\SpexE_CommMater\\SpexE_Comm.Model\\obj\\",
+        "outputPath": "E:\\Project\\SpexE_Comm\\SpexE_Comm2_o\\SpexE_CommMater\\SpexE_Comm.Model\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -318,8 +318,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "E:\\SpexE_Comm\\SpexE_CommMater\\SpexE_Comm.Data\\SpexE_Comm.Data.csproj": {
-                "projectPath": "E:\\SpexE_Comm\\SpexE_CommMater\\SpexE_Comm.Data\\SpexE_Comm.Data.csproj"
+              "E:\\Project\\SpexE_Comm\\SpexE_Comm2_o\\SpexE_CommMater\\SpexE_Comm.Data\\SpexE_Comm.Data.csproj": {
+                "projectPath": "E:\\Project\\SpexE_Comm\\SpexE_Comm2_o\\SpexE_CommMater\\SpexE_Comm.Data\\SpexE_Comm.Data.csproj"
               }
             }
           }
@@ -374,14 +374,14 @@
         }
       }
     },
-    "E:\\SpexE_Comm\\SpexE_CommMater\\SpexE_Comm.Service\\SpexE_Comm.Service.csproj": {
+    "E:\\Project\\SpexE_Comm\\SpexE_Comm2_o\\SpexE_CommMater\\SpexE_Comm.Service\\SpexE_Comm.Service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\SpexE_Comm\\SpexE_CommMater\\SpexE_Comm.Service\\SpexE_Comm.Service.csproj",
+        "projectUniqueName": "E:\\Project\\SpexE_Comm\\SpexE_Comm2_o\\SpexE_CommMater\\SpexE_Comm.Service\\SpexE_Comm.Service.csproj",
         "projectName": "SpexE_Comm.Service",
-        "projectPath": "E:\\SpexE_Comm\\SpexE_CommMater\\SpexE_Comm.Service\\SpexE_Comm.Service.csproj",
+        "projectPath": "E:\\Project\\SpexE_Comm\\SpexE_Comm2_o\\SpexE_CommMater\\SpexE_Comm.Service\\SpexE_Comm.Service.csproj",
         "packagesPath": "C:\\Users\\sudha\\.nuget\\packages\\",
-        "outputPath": "E:\\SpexE_Comm\\SpexE_CommMater\\SpexE_Comm.Service\\obj\\",
+        "outputPath": "E:\\Project\\SpexE_Comm\\SpexE_Comm2_o\\SpexE_CommMater\\SpexE_Comm.Service\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -404,11 +404,11 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "E:\\SpexE_Comm\\SpexE_CommMater\\SpexE_Comm.Data\\SpexE_Comm.Data.csproj": {
-                "projectPath": "E:\\SpexE_Comm\\SpexE_CommMater\\SpexE_Comm.Data\\SpexE_Comm.Data.csproj"
+              "E:\\Project\\SpexE_Comm\\SpexE_Comm2_o\\SpexE_CommMater\\SpexE_Comm.Data\\SpexE_Comm.Data.csproj": {
+                "projectPath": "E:\\Project\\SpexE_Comm\\SpexE_Comm2_o\\SpexE_CommMater\\SpexE_Comm.Data\\SpexE_Comm.Data.csproj"
               },
-              "E:\\SpexE_Comm\\SpexE_CommMater\\SpexE_Comm.Model\\SpexE_Comm.Model.csproj": {
-                "projectPath": "E:\\SpexE_Comm\\SpexE_CommMater\\SpexE_Comm.Model\\SpexE_Comm.Model.csproj"
+              "E:\\Project\\SpexE_Comm\\SpexE_Comm2_o\\SpexE_CommMater\\SpexE_Comm.Model\\SpexE_Comm.Model.csproj": {
+                "projectPath": "E:\\Project\\SpexE_Comm\\SpexE_Comm2_o\\SpexE_CommMater\\SpexE_Comm.Model\\SpexE_Comm.Model.csproj"
               }
             }
           }
